@@ -259,6 +259,9 @@ Here,some basic Keybindings be gived:
 * **git merge name** -------------------------merge branch
 * **git branch -d name** --------------------remove branch
 * **git remote set-url origin https://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@github.com/ZhikaiLi2022/notes.git** ---------------into a projects
+    git remote add origin https://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@github.com/ZhikaiLi2022/notes.git
+    git remote -v
 * **git push -u origin master** --------------------------------Signe in as ZhikaiLi2022
+    git push --set-upstream origin master
 * **git config credential.helper store** ---------------------------------------store user informeantion
 * **git log** show up log
