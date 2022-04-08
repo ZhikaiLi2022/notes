@@ -38,7 +38,7 @@ Code
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/home/life/notes/picture/eb.jpg" width = "100%" alt=""/>
+    src="/picture/eb.jpg" width = "100%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -52,7 +52,7 @@ Code
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/home/life/notes/picture/TIC 261656371a.png" width = "90%" alt=""/>
+    src="/picture/TIC 261656371a.png" width = "90%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -71,19 +71,19 @@ code
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/home/life/notes/picture/4TIC_353939279.png" width = "49%" alt=""/>
+    src="/picture/4TIC_353939279.png" width = "49%" alt=""/>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/home/life/notes/picture/8TIC_356015357.png" width = "49%" alt=""/>
+    src="/picture/8TIC_356015357.png" width = "49%" alt=""/>
 </center>
 
-![pipeline](/home/life/notes/picture/pipeline.jpg)
+![pipeline](/picture/pipeline.jpg)
 
 ### <h2 id="3"> 3.Other intersting things in TESS [^](#0) </h2>
 
-![heart](/home/life/notes/picture/eccentric_ellipsoidal.gif)
-![hearts](/home/life/notes/picture/heart1.png)
-![ho1](/home/life/notes/picture/ho1.png)
+![heart](/picture/eccentric_ellipsoidal.gif)
+![hearts](/picture/heart1.png)
+![ho1](/picture/ho1.png)
 ---
 
 TIC 278956474:Two close binaries in one young quadruple system,identified by TESS
@@ -97,6 +97,6 @@ TIC 278956474:Two close binaries in one young quadruple system,identified by TES
     src="/home/life/notes/picture/q.png" width = "49%" alt=""/>
 </center>
 
-![hearts](/home/life/notes/picture/c1.png)
+![hearts](/picture/c1.png)
 
 
