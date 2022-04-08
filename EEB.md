@@ -14,7 +14,7 @@
 ---
 ### <h2 id="1"> 1.Observation data [^](#0) </h2>
 ---
-![pixelfile](/notes/picture/pixelfile.gif)
+![pixelfile](/picture/pixelfile.gif)
 [Download data](https://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_ffi-tp-lc-dv.html)
 <center>
     <img style="border-radius: 0.3125em;
